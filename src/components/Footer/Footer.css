@@ -1,0 +1,20 @@
+/*Footer*/
+footer {
+  padding: 2em 0;
+  width: 100%;
+  text-align: center;
+  background: var(--lightGrey);
+}
+footer .nav-ul {justify-content: center;margin-bottom: 1em;}
+footer li:not(:first-child) {margin-left: .75em;}
+footer li:first-child a {color: var(--lightBlack);}
+footer a {
+  font-size: 1.25em;
+  font-weight: bold;
+  color: var(--darkGrey);
+  
+}
+footer a:focus,
+  :hover {color: var(--lightBlack);}
+
+.copy {font-size: .85em;}

@@ -1,0 +1,17 @@
+/*Events*/
+.sec-events > h1 {margin-top: 1em;}
+.sec-events article {
+  float: left;
+  padding: 0 .25em;
+  width: 25%;
+  text-align: justify;
+}
+.sec-events article h1,
+.sec-events article p {
+  display: block;
+  margin: .5em 0;
+  padding: .25em 1em;
+  font-size: 110%;
+}
+.sec-events article a {float: right;padding-right: 1em;}
+.sec-events article h1 {font-weight: bold;text-align: center;}

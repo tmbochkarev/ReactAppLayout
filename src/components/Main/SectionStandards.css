@@ -1,0 +1,14 @@
+/*Standards*/
+.sec-standards {width: 40%;}
+.sec-standards > h1 {
+  margin-top: 1em;
+  text-align: center;
+}
+.sec-standards article {
+  float: left;
+  padding: .5em 1em;
+  width: 50%;
+  text-align: justify;
+}
+.sec-standards article:last-child {padding: .5em 0;}
+.sec-standards article h1 {text-align: center;}
